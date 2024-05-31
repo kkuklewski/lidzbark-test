@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.16" apprev="18125">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1376" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="1376">
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-174">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24950897" description="" datetime="16.05.2024 09:57" nodeid="node1" altitude="76.90" info="" customnodeid="" author="" latitude="54.13418836" tags="Trójkąt Lidzbarski" heading="-174" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="9.80376" url="{node8}" id="Point01" pan="-42.3014" target="-87.3/0.0/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="15.5162" url="{node7}" id="Point02" pan="-327.026" target="66.2/1.7/70.0" skinid="ht_node"/>
+      <hotspot title="" tilt="-0.37" description="" distance="47.0864" url="{node40}" id="Point03" pan="-172.5" target="126.0/0.0/70.0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1376" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="1376">
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="31.8">
+      <start tilt="-3.09017" projection="4" pan="-141.743" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24980090" description="" datetime="16.05.2024 10:04" nodeid="node3" altitude="71.30" info="" customnodeid="" author="" latitude="54.13373964" tags="Trójkąt Lidzbarski" heading="31.8" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="38.005" url="{node7}" id="Point01" pan="50.1754" target="-83.0/-0.7/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="-13.32" description="" url="{node5}" id="Point02" pan="230.21" target="94.4/-2.1/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="-2.14" description="" url="{node6}" id="Point03" pan="282.664" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-241">
+      <start tilt="0.915908" projection="4" pan="-70.8785" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24974801" description="" datetime="" nodeid="node4" info="" customnodeid="" author="" latitude="54.13369108" tags="Trójkąt Lidzbarski" heading="-241" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="2.40682" url="{node5}" id="Point01" pan="-252.507" target="163.5/8.2/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-75">
+      <start tilt="-3.10606" projection="4" pan="95.3015" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24975538" description="" datetime="" nodeid="node5" info="" customnodeid="" author="" latitude="54.13371229" tags="Trójkąt Lidzbarski" heading="-75" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="7.59" description="" distance="4.24775" url="{node3}" id="Point01" pan="-122.965" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="2.40682" url="{node4}" id="Point02" pan="93.4927" target="102.5/1.8/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="11.3" description="" distance="3.43027" url="{node6}" id="Point03" pan="163.15" target="-153.5/0.2/52.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-94">
+      <start tilt="-8.09579" projection="4" pan="-101.682" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24977934" description="" datetime="16.05.2024 10:13" nodeid="node6" altitude="73.20" info="" customnodeid="" author="" latitude="54.13368482" tags="Trójkąt Lidzbarski" heading="-94" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="1.02" description="" distance="3.43027" url="{node5}" id="Point01" pan="-130.47" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0.13" description="" distance="6.25544" url="{node3}" id="Point02" pan="-157.53" target="42.9/-0.7/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="229.1">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.249617" description="" datetime="16.05.2024 10:15" nodeid="node7" altitude="87.90" info="" customnodeid="" author="" latitude="54.134064" tags="Trójkąt Lidzbarski" heading="229.1" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0.17" description="" distance="15.5162" url="{node1}" id="Point01" pan="262.73" target="-41.7/-0.7/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="38.005" url="{node3}" id="Point02" pan="67.4755" target="-145.9/-5.7/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-219">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24939661" description="" datetime="16.05.2024 10:17" nodeid="node8" altitude="84.20" info="" customnodeid="" author="" latitude="54.13412971" tags="Trójkąt Lidzbarski" heading="-219" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="39.5788" url="{node9}" id="Point01" pan="-87.1604" target="-172.6/3.2/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="9.80376" url="{node1}" id="Point02" pan="-267.301" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="131">
+      <start tilt="0.0928708" projection="4" pan="-175.483" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24894400" description="" datetime="16.05.2024 10:20" nodeid="node9" altitude="92.40" info="" customnodeid="" author="" latitude="54.13389228" tags="Trójkąt Lidzbarski" heading="131" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="27.0501" url="{node10}" id="Point01" pan="184.412" target="105.4/-2.5/43.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0.66" description="" distance="302.477" url="{node11}" id="Point02" pan="278.75" target="-87.8/1.1/59.7" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="39.5788" url="{node8}" id="Point03" pan="82.84" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="242">
+      <start tilt="-6.62209" projection="4" pan="67.1337" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24861061" description="" datetime="16.05.2024 10:22" nodeid="node10" altitude="94.20" info="" customnodeid="" author="" latitude="54.13403728" tags="Trójkąt Lidzbarski" heading="242" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="27.0501" url="{node9}" id="Point01" pan="115.412" target="-83.1/-0.5/58.3" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-212">
+      <start tilt="-2.67008" projection="4" pan="-167.816" fov="71.6408"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24536110" description="" datetime="16.05.2024 10:31" nodeid="node11" altitude="77.70" info="" customnodeid="" author="" latitude="54.13216228" tags="Trójkąt Lidzbarski" heading="-212" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0.56" description="" distance="652.332" url="{node44}" id="Point01" pan="-88.7" target="-128.1/0.3/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="-0.37" description="" distance="302.477" url="{node9}" id="Point02" pan="-273.656" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="207.884" url="{node12}" id="Point03" pan="-170.949" target="89.6/-1.9/43.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="143">
+      <start tilt="0.303952" projection="4" pan="82.2285" fov="53.629"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24326555" description="" datetime="16.05.2024 11:17" nodeid="node12" altitude="77.70" info="" customnodeid="" author="" latitude="54.13357214" tags="Trójkąt Lidzbarski" heading="143" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.99" description="" distance="207.884" url="{node11}" id="Point01" pan="341.92" target="84.5/-0.3/65.5" skinid="ht_node"/>
+      <hotspot title="" tilt="-4.15" description="" distance="13.8779" url="{node13}" id="Point02" pan="101.09" target="106.8/-2.7/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0.11" description="" distance="96.366" url="{node16}" id="Point03" pan="144.96" target="126.9/-3.3/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="197">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24345617" description="" datetime="16.05.2024 11:19" nodeid="node13" altitude="82.60" info="" customnodeid="" author="" latitude="54.13362785" tags="Trójkąt Lidzbarski" heading="197" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.7" description="" distance="13.8779" url="{node12}" id="Point01" pan="299.24" target="148.5/0.4/44.0" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="14.5948" url="{node14}" id="Point02" pan="137.553" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="16.8675" url="{node15}" id="Point03" pan="118.85" target="146.1/-7.1/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-12.8266" projection="4" pan="-127.934" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24364909" description="" datetime="16.05.2024 11:20" nodeid="node14" altitude="97.20" info="" customnodeid="" author="" latitude="54.13369457" tags="Trójkąt Lidzbarski" heading="0" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="2.62" description="" distance="5.58244" url="{node15}" id="Point01" pan="-126.222" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0.5" description="" distance="14.5948" url="{node13}" id="Point02" pan="111.99" target="-48.3/-1.5/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="94">
+      <start tilt="-5.69731" projection="4" pan="151.78" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24370956" description="" datetime="16.05.2024 11:22" nodeid="node15" altitude="90.70" info="" customnodeid="" author="" latitude="54.13365900" tags="Trójkąt Lidzbarski" heading="94" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="5.58244" url="{node14}" id="Point01" pan="138.886" target="104.0/-2.4/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="16.8675" url="{node13}" id="Point02" pan="195.85" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="165.1">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24259247" description="" datetime="16.05.2024 11:25" nodeid="node16" altitude="76.90" info="" customnodeid="" author="" latitude="54.13434386" tags="Trójkąt Lidzbarski" heading="165.1" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="12.981" url="{node17}" id="Point01" pan="109.182" target="159.5/-3.9/52.8" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="96.366" url="{node12}" id="Point02" pan="12.1675" target="-15.2/-0.9/48.6" skinid="ht_node"/>
+      <hotspot title="" tilt="-2.25" description="" distance="170.86" url="{node21}" id="Point03" pan="200.89" target="113.4/-2.1/39.4" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="15.2002" url="{node19}" id="Point04" pan="79.4718" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="253">
+      <start tilt="-3.33027" projection="4" pan="109.487" fov="58.1604"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24275750" description="" datetime="16.05.2024 11:26" nodeid="node17" altitude="88.20" info="" customnodeid="" author="" latitude="54.13440928" tags="Trójkąt Lidzbarski" heading="253" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="12.981" url="{node16}" id="Point01" pan="377.082" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="7.73241" url="{node18}" id="Point02" pan="168.719" target="-173.3/1.3/52.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-317">
+      <start tilt="-10.8414" projection="4" pan="-172.464" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24287560" description="" datetime="16.05.2024 11:27" nodeid="node18" altitude="89.00" info="" customnodeid="" author="" latitude="54.13441621" tags="Trójkąt Lidzbarski" heading="-317" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="7.63156" url="{node19}" id="Point01" pan="-162.532" target="-131.1/-4.0/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="7.73241" url="{node17}" id="Point02" pan="-221.281" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="136">
+      <start tilt="-6.35241" projection="4" pan="110.056" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24282511" description="" datetime="16.05.2024 11:29" nodeid="node19" altitude="79.90" info="" customnodeid="" author="" latitude="54.13435428" tags="Trójkąt Lidzbarski" heading="136" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="7.63156" url="{node18}" id="Point01" pan="110.468" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="15.2002" url="{node16}" id="Point02" pan="230.372" target="-161.7/0.6/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="156">
+      <start tilt="-0.889975" projection="4" pan="115.637" fov="64.0913"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24055808" description="" datetime="16.05.2024 11:36" nodeid="node21" altitude="84.00" info="" customnodeid="" author="" latitude="54.13531362" tags="Trójkąt Lidzbarski" heading="156" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="1.85" description="" distance="170.86" url="{node16}" id="Point01" pan="347.708" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="8.50268" url="{node22}" id="Point02" pan="115.934" target="128.4/0.0/50.1" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="135.565" url="{node24}" id="Point03" pan="169.142" target="99.9/-3.2/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="170">
+      <start tilt="-1.04883" projection="4" pan="137.562" fov="55.2179"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24064209" description="" datetime="16.05.2024 11:37" nodeid="node22" altitude="89.50" info="" customnodeid="" author="" latitude="54.13537214" tags="Trójkąt Lidzbarski" heading="170" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="8.50268" url="{node21}" id="Point01" pan="309.934" target="170.3/-1.2/58.3" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="6.90411" url="{node23}" id="Point02" pan="138.623" target="71.2/-5.9/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-34">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24069727" description="" datetime="16.05.2024 11:38" nodeid="node23" altitude="84.90" info="" customnodeid="" author="" latitude="54.13542515" tags="Trójkąt Lidzbarski" heading="-34" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-3.11" description="" distance="6.90411" url="{node22}" id="Point01" pan="72.09" target="-51.2/-3.8/50.0" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="39">
+      <start tilt="-3.11174" projection="4" pan="60.1681" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24008492" description="" datetime="16.05.2024 11:41" nodeid="node24" altitude="77.10" info="" customnodeid="" author="" latitude="54.13650085" tags="Trójkąt Lidzbarski" heading="39" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="135.565" url="{node21}" id="Point02" pan="-127.857" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="201.323" url="{node26}" id="Point01" pan="109.664" target="117.3/-1.5/52.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-197">
+      <start tilt="3.17904" projection="4" pan="-170.777" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23716878" description="" datetime="16.05.2024 11:47" nodeid="node26" altitude="82.20" info="" customnodeid="" author="" latitude="54.13710031" tags="Trójkąt Lidzbarski" heading="-197" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.61" description="" distance="201.323" url="{node24}" id="Point01" pan="-33.82" target="-134.2/-2.6/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0.23" description="" distance="2.28137" url="{node27}" id="Point02" pan="-259.08" target="-77.7/-0.7/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="92.8748" url="{node29}" id="Point03" pan="-130.533" target="-67.4/-3.4/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-193">
+      <start tilt="-5.52485" projection="4" pan="170.796" fov="63.9102"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23720358" description="" datetime="16.05.2024 11:48" nodeid="node27" altitude="85.20" info="" customnodeid="" author="" latitude="54.13710261" tags="Trójkąt Lidzbarski" heading="-193" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-2.95" description="" distance="2.28137" url="{node26}" id="Point01" pan="287.85" target="-120.9/-6.6/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="164.6">
+      <start tilt="4.4819" projection="4" pan="-176.455" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.235792" description="" datetime="16.05.2024 11:51" nodeid="node28" altitude="99.60" info="" customnodeid="" author="" latitude="54.137503" tags="Trójkąt Lidzbarski" heading="164.6" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="5.31284" url="{node30}" id="Point01" pan="16.4852" target="$fwd" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="41.7588" url="{node32}" id="Point02" pan="220.76" target="169.8/-2.3/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="242">
+      <start tilt="-0.337864" projection="4" pan="-91.6094" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23586164" description="" datetime="16.05.2024 11:52" nodeid="node29" altitude="107.10" info="" customnodeid="" author="" latitude="54.13743379" tags="Trójkąt Lidzbarski" heading="242" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="92.8748" url="{node26}" id="Point01" pan="128.469" target="122.3/-1.7/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="3.62428" url="{node30}" id="Point02" pan="270.515" target="62.2/-2.0/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="358.3">
+      <start tilt="0.864559" projection="4" pan="59.5983" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23583508" description="" datetime="16.05.2024 11:54" nodeid="node30" altitude="96.80" info="" customnodeid="" author="" latitude="54.13746243" tags="Trójkąt Lidzbarski" heading="358.3" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-1.29" description="" distance="5.31284" url="{node28}" id="Point01" pan="64.43" target="-145.5/-1.7/70.0" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="3.62428" url="{node29}" id="Point02" pan="206.82" target="119.4/-2.5/58.2" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="236">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.235350" description="" datetime="16.05.2024 11:57" nodeid="node32" altitude="97.90" info="" customnodeid="" author="" latitude="54.137775" tags="Trójkąt Lidzbarski" heading="236" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="7.90474" url="{node33}" id="Point01" pan="165.338" target="-9.6/-4.4/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="2.11" description="" distance="142.077" url="{node34}" id="Point02" pan="238.72" target="-128.6/0.1/58.2" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="41.7588" url="{node28}" id="Point03" pan="99.5913" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-92">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23546450" description="" datetime="16.05.2024 11:58" nodeid="node33" altitude="96.40" info="" customnodeid="" author="" latitude="54.13779854" tags="Trójkąt Lidzbarski" heading="-92" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="7.90474" url="{node32}" id="Point01" pan="17.3376" target="-117.5/-3.9/52.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="191">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23573718" description="" datetime="16.05.2024 12:01" nodeid="node34" altitude="95.50" info="" customnodeid="" author="" latitude="54.13903244" tags="Trójkąt Lidzbarski" heading="191" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0.83" description="" distance="650.508" url="{node37}" id="Point01" pan="82.67" target="-146.6/-1.0/43.3" skinid="ht_node"/>
+      <hotspot title="" tilt="-0.12" description="" distance="36.514" url="{node35}" id="Point02" pan="234.96" target="111.8/0.5/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="-1.82" description="" distance="142.077" url="{node32}" id="Point03" pan="342.14" target="172.0/-0.5/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="41">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23521127" description="" datetime="16.05.2024 12:03" nodeid="node35" altitude="85.80" info="" customnodeid="" author="" latitude="54.13914608" tags="Trójkąt Lidzbarski" heading="41" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="36.514" url="{node34}" id="Point01" pan="-69.2465" target="77.7/-1.4/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="-0.86" description="" distance="6.00656" url="{node36}" id="Point02" pan="104.65" target="-94.1/3.6/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="20.6">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23512468" description="" datetime="16.05.2024 12:04" nodeid="node36" altitude="86.40" info="" customnodeid="" author="" latitude="54.13916465" tags="Trójkąt Lidzbarski" heading="20.6" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0.2" description="" distance="6.00656" url="{node35}" id="Point01" pan="-94.76" target="-70.7/-2.2/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="317.7">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24570867" description="" datetime="16.05.2024 12:15" nodeid="node37" altitude="77.10" info="" customnodeid="" author="" latitude="54.13871479" tags="Trójkąt Lidzbarski" heading="317.7" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.43" description="" distance="1.58192" url="{node38}" id="Point01" pan="212.29" target="68.1/0.1/58.3" skinid="ht_node"/>
+      <hotspot title="" tilt="2.85" description="" distance="650.508" url="{node34}" id="Point02" pan="43.76" target="-122.8/3.1/58.8" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-71">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.24573198" description="" datetime="16.05.2024 12:16" nodeid="node38" altitude="77.50" info="" customnodeid="" author="" latitude="54.13871080" tags="Trójkąt Lidzbarski" heading="-71" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.34" description="" distance="530.222" url="{node40}" id="Point01" pan="78.34" target="126.4/1.0/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0.02" description="" distance="1.58192" url="{node37}" id="Point02" pan="360" target="49.7/1.0/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node40">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="161.3">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.249792" description="" datetime="16.05.2024 12:29" nodeid="node40" altitude="74.40" info="" customnodeid="" author="" latitude="54.134578" tags="Trójkąt Lidzbarski" heading="161.3" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="47.0864" url="{node1}" id="Point01" pan="318.246" target="-41.5/-0.5/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0.86" description="" distance="34.0763" url="{node41}" id="Point02" pan="118.44" target="127.0/1.3/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0" description="" distance="530.222" url="{node38}" id="Point03" pan="191.22" target="-6.2/-2.1/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node41">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="110.7">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.25016830" description="" datetime="16.05.2024 12:31" nodeid="node41" altitude="77.20" info="" customnodeid="" author="" latitude="54.13479086" tags="Trójkąt Lidzbarski" heading="110.7" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="34.0763" url="{node40}" id="Point01" pan="244.694" target="-39.9/1.5/64.1" skinid="ht_node"/>
+      <hotspot title="" tilt="2.05" description="" distance="3.85147" url="{node42}" id="Point02" pan="126.49" target="67.0/-2.6/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node42">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="343">
+      <start tilt="-6.06721" projection="4" pan="172.387" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.25014467" description="" datetime="16.05.2024 12:33" nodeid="node42" altitude="72.80" info="" customnodeid="" author="" latitude="54.13482261" tags="Trójkąt Lidzbarski" heading="343" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="-0.29" description="" distance="3.85147" url="{node41}" id="Point01" pan="225.07" target="-116.1/-0.1/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="-6.44" description="" distance="0.7759" url="{node43}" id="Point02" pan="417.47" target="134.7/0.8/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="202">
+      <start tilt="0" projection="4" pan="0" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.25013276" description="" datetime="16.05.2024 12:34" nodeid="node43" altitude="80.70" info="" customnodeid="" author="" latitude="54.13482262" tags="Trójkąt Lidzbarski" heading="202" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="0.7759" url="{node42}" id="Point01" pan="111.918" target="-124.7/-1.0/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-145">
+      <start tilt="-1.44476" projection="4" pan="-135.8" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.235350" description="" datetime="16.05.2024 13:09" nodeid="node44" altitude="76.20" info="" customnodeid="" author="" latitude="54.132061" tags="Trójkąt Lidzbarski" heading="-145" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="73.8968" url="{node46}" id="Point01" pan="-55.2962" target="-177.5/0.8/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="-0.57" description="" distance="6.1349" url="{node45}" id="Point02" pan="-138.28" target="-113.4/-1.2/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0.29" description="" distance="652.332" url="{node11}" id="Point03" pan="-241.63" target="-168.5/-0.9/65.5" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-303">
+      <start tilt="-10.1462" projection="4" pan="164.279" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23532789" description="" datetime="16.05.2024 13:10" nodeid="node45" altitude="77.70" info="" customnodeid="" author="" latitude="54.13211463" tags="Trójkąt Lidzbarski" heading="-303" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="6.1349" url="{node44}" id="Point01" pan="-469.42" target="-57.9/1.1/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node46">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="4">
+      <start tilt="0.56607" projection="4" pan="157.675" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.23421578" description="" datetime="16.05.2024 13:20" nodeid="node46" altitude="71.00" info="" customnodeid="" author="" latitude="54.13206443" tags="Trójkąt Lidzbarski" heading="4" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="36.2439" url="{node47}" id="Point01" pan="161.177" target="43.9/0.5/63.9" skinid="ht_node"/>
+      <hotspot title="" tilt="0.1" description="" distance="73.8968" url="{node44}" id="Point02" pan="-84.3" target="118.4/0.8/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelingpitch="0" leveltilesize="510" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" height="2752" levelbiashidpi="1.000" overlap="1" levelingroll="0" levelbias="0.400" width="2752">
+      <level predecode="0" preload="0" height="2752" width="2752"/>
+      <level predecode="0" preload="0" height="1376" width="1376"/>
+      <level predecode="0" preload="0" height="688" width="688"/>
+      <level predecode="1" preload="1" height="344" width="344"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="-286">
+      <start tilt="-7.86564" projection="4" pan="177.127" fov="70"/>
+      <flyin tilt="-90" projection="9" pan="0" fov="170"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fovstereographic="270" pan="360" fovfisheye="360" fov="120" scaletofit="1"/>
+    </view>
+    <userdata title="" copyright="" longitude="20.234000" description="" datetime="16.05.2024 13:21" nodeid="node47" altitude="77.10" info="" customnodeid="" author="" latitude="54.131764" tags="Trójkąt Lidzbarski" heading="-286" comment="" source=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" background="1" borderalpha="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" bordercolor="0x000000" backgroundalpha="1"/>
+      <polystyle mode="0" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" tilt="0" description="" distance="36.2439" url="{node46}" id="Point01" pan="-308.823" target="-82.2/-0.3/63.9" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafterinfov="90" softedge="0" zoomfov="20" blendtime="1" type="crossdissolve" zoomafteroutfov="20" zoomout="0" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" enabled="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" hideabout="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" sensitivity="8" lockedkeyboard="0" contextvr="1" contextprojections="0" rubberband="0" invertwheel="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="" copyright="" longitude="" description="" datetime="" nodeid="master" info="" customnodeid="" author="" latitude="" tags="" heading="0" comment="" source=""/>
+  </masternode>
+</tour>
